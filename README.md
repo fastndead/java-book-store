@@ -2,7 +2,7 @@
  Java Book Store is a web application that allows users to browse and purchase books online. It is built using Java and Spring Boot, and provides an
 interactive interface for managing books, orders, and customers.
 
-This project was built as a part of univercity assignment for Java, nothing serious.
+   This project was built as a part of university assignment for Java, nothing serious.
 
 ## Getting Started
  To get started with Java Book Store, you can clone the repository and switch to the `master` branch. From there, you can build and run the application:
